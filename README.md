@@ -1,7 +1,6 @@
 <div align="center">
 
 # 🚀 SuperClaude Framework
-
 ### **Transform Claude Code into a Structured Development Platform**
 
 <p align="center">
